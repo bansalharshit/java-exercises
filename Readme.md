@@ -1,0 +1,1 @@
+This repository is made to practice java concepts for the interview preparation purpose.
